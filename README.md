@@ -1,2 +1,2 @@
 this pkg will support in parsing of huge data.
-it will disect the dump in multiple files for each command executed respectively.
+it will disect the dump into multiple files for each command executed respectively.
